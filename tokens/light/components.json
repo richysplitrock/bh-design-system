@@ -1,0 +1,4690 @@
+{
+  "Anchor": {
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorSplit": {
+      "value": "{colorSplit}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidthBold": {
+      "value": "{lineWidthBold}",
+      "type": "borderWidth"
+    },
+    "padding": {
+      "value": "{padding}",
+      "type": "spacing"
+    },
+    "paddingXXS": {
+      "value": "{paddingXXS}",
+      "type": "spacing"
+    }
+  },
+  "Breadcrumb": {
+    "colorBgTextHover": {
+      "value": "{colorBgTextHover}",
+      "type": "color"
+    },
+    "colorPrimaryBorder": {
+      "value": "{colorPrimaryBorder}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDescription": {
+      "value": "{colorTextDescription}",
+      "type": "color"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    },
+    "paddingXXS": {
+      "value": "{paddingXXS}",
+      "type": "spacing"
+    }
+  },
+  "Button": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorBgContainerDisabled": {
+      "value": "{colorBgContainerDisabled}",
+      "type": "color"
+    },
+    "colorBgTextActive": {
+      "value": "{colorBgTextActive}",
+      "type": "color"
+    },
+    "colorBgTextHover": {
+      "value": "{colorBgTextHover}",
+      "type": "color"
+    },
+    "colorBorder": {
+      "value": "{colorBorder}",
+      "type": "color"
+    },
+    "colorError": {
+      "value": "{colorError}",
+      "type": "color"
+    },
+    "colorErrorActive": {
+      "value": "{colorErrorActive}",
+      "type": "color"
+    },
+    "colorErrorBg": {
+      "value": "{colorErrorBg}",
+      "type": "color"
+    },
+    "colorErrorBorderHover": {
+      "value": "{colorErrorBorderHover}",
+      "type": "color"
+    },
+    "colorErrorHover": {
+      "value": "{colorErrorHover}",
+      "type": "color"
+    },
+    "colorErrorOutline": {
+      "value": "{colorErrorOutline}",
+      "type": "color"
+    },
+    "colorLink": {
+      "value": "{colorLink}",
+      "type": "color"
+    },
+    "colorLinkActive": {
+      "value": "{colorLinkActive}",
+      "type": "color"
+    },
+    "colorLinkHover": {
+      "value": "{colorLinkHover}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorPrimaryActive": {
+      "value": "{colorPrimaryActive}",
+      "type": "color"
+    },
+    "colorPrimaryBorder": {
+      "value": "{colorPrimaryBorder}",
+      "type": "color"
+    },
+    "colorPrimaryHover": {
+      "value": "{colorPrimaryHover}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "colorTextLightSolid": {
+      "value": "{colorTextLightSolid}",
+      "type": "color"
+    },
+    "borderRadius": {
+      "value": "{borderRadius}",
+      "type": "borderRadius"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "controlHeightSM": {
+      "value": "{controlHeightSM}",
+      "type": "sizing"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "opacityLoading": {
+      "value": "{opacityLoading}",
+      "type": "opacity"
+    },
+    "paddingContentHorizontal": {
+      "value": "{paddingContentHorizontal}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    },
+    "lineType": {
+      "value": {
+        "style": "solid"
+      },
+      "type": "border"
+    }
+  },
+  "Dropdown": {
+    "colorBgElevated": {
+      "value": "{colorBgElevated}",
+      "type": "color"
+    },
+    "colorError": {
+      "value": "{colorError}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorPrimaryBorder": {
+      "value": "{colorPrimaryBorder}",
+      "type": "color"
+    },
+    "colorSplit": {
+      "value": "{colorSplit}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDescription": {
+      "value": "{colorTextDescription}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "colorTextLightSolid": {
+      "value": "{colorTextLightSolid}",
+      "type": "color"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "borderRadiusOuter": {
+      "value": "{borderRadiusOuter}",
+      "type": "borderRadius"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "borderRadiusXS": {
+      "value": "{borderRadiusXS}",
+      "type": "borderRadius"
+    },
+    "boxShadowSecondary": {
+      "value": "{boxShadowSecondary}",
+      "type": "boxShadow"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "controlItemBgActive": {
+      "value": "{controlItemBgActive}",
+      "type": "color"
+    },
+    "controlItemBgActiveHover": {
+      "value": "{controlItemBgActiveHover}",
+      "type": "color"
+    },
+    "controlItemBgHover": {
+      "value": "{controlItemBgHover}",
+      "type": "color"
+    },
+    "controlPaddingHorizontal": {
+      "value": "{controlPaddingHorizontal}",
+      "type": "spacing"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    },
+    "paddingXXS": {
+      "value": "{paddingXXS}",
+      "type": "spacing"
+    },
+    "sizePopupArrow": {
+      "value": "{sizePopupArrow}",
+      "type": "sizing"
+    }
+  },
+  "Menu": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorBgElevated": {
+      "value": "{colorBgElevated}",
+      "type": "color"
+    },
+    "colorBgTextHover": {
+      "value": "{colorBgTextHover}",
+      "type": "color"
+    },
+    "colorError": {
+      "value": "{colorError}",
+      "type": "color"
+    },
+    "colorErrorBg": {
+      "value": "{colorErrorBg}",
+      "type": "color"
+    },
+    "colorErrorHover": {
+      "value": "{colorErrorHover}",
+      "type": "color"
+    },
+    "colorFillAlter": {
+      "value": "{colorFillAlter}",
+      "type": "color"
+    },
+    "colorFillContent": {
+      "value": "{colorFillContent}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorPrimaryBorder": {
+      "value": "{colorPrimaryBorder}",
+      "type": "color"
+    },
+    "colorSplit": {
+      "value": "{colorSplit}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDescription": {
+      "value": "{colorTextDescription}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "colorTextLightSolid": {
+      "value": "{colorTextLightSolid}",
+      "type": "color"
+    },
+    "borderRadius": {
+      "value": "{borderRadius}",
+      "type": "borderRadius"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "boxShadowSecondary": {
+      "value": "{boxShadowSecondary}",
+      "type": "boxShadow"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "controlHeightSM": {
+      "value": "{controlHeightSM}",
+      "type": "sizing"
+    },
+    "controlItemBgActive": {
+      "value": "{controlItemBgActive}",
+      "type": "color"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "lineWidthBold": {
+      "value": "{lineWidthBold}",
+      "type": "borderWidth"
+    },
+    "margin": {
+      "value": "{margin}",
+      "type": "spacing"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    },
+    "padding": {
+      "value": "{padding}",
+      "type": "spacing"
+    },
+    "paddingXL": {
+      "value": "{paddingXL}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    }
+  },
+  "Pagination": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorBgContainerDisabled": {
+      "value": "{colorBgContainerDisabled}",
+      "type": "color"
+    },
+    "colorBgTextActive": {
+      "value": "{colorBgTextActive}",
+      "type": "color"
+    },
+    "colorBgTextHover": {
+      "value": "{colorBgTextHover}",
+      "type": "color"
+    },
+    "colorBorder": {
+      "value": "{colorBorder}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorPrimaryBorder": {
+      "value": "{colorPrimaryBorder}",
+      "type": "color"
+    },
+    "colorPrimaryHover": {
+      "value": "{colorPrimaryHover}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "colorTextPlaceholder": {
+      "value": "{colorTextPlaceholder}",
+      "type": "color"
+    },
+    "borderRadius": {
+      "value": "{borderRadius}",
+      "type": "borderRadius"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "controlHeightSM": {
+      "value": "{controlHeightSM}",
+      "type": "sizing"
+    },
+    "controlItemBgActiveDisabled": {
+      "value": "{controlItemBgActiveDisabled}",
+      "type": "color"
+    },
+    "controlOutline": {
+      "value": "{controlOutline}",
+      "type": "color"
+    },
+    "controlOutlineWidth": {
+      "value": "{controlOutlineWidth}",
+      "type": "borderWidth"
+    },
+    "controlPaddingHorizontal": {
+      "value": "{controlPaddingHorizontal}",
+      "type": "spacing"
+    },
+    "controlPaddingHorizontalSM": {
+      "value": "{controlPaddingHorizontalSM}",
+      "type": "spacing"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "margin": {
+      "value": "{margin}",
+      "type": "spacing"
+    },
+    "marginSM": {
+      "value": "{marginSM}",
+      "type": "spacing"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    },
+    "paddingXXS": {
+      "value": "{paddingXXS}",
+      "type": "spacing"
+    }
+  },
+  "Steps": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorBorderBg": {
+      "value": "{colorBorderBg}",
+      "type": "color"
+    },
+    "colorBorderSecondary": {
+      "value": "{colorBorderSecondary}",
+      "type": "color"
+    },
+    "colorError": {
+      "value": "{colorError}",
+      "type": "color"
+    },
+    "colorFillContent": {
+      "value": "{colorFillContent}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorSplit": {
+      "value": "{colorSplit}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDescription": {
+      "value": "{colorTextDescription}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "colorTextLabel": {
+      "value": "{colorTextLabel}",
+      "type": "color"
+    },
+    "colorTextLightSolid": {
+      "value": "{colorTextLightSolid}",
+      "type": "color"
+    },
+    "colorTextQuaternary": {
+      "value": "{colorTextQuaternary}",
+      "type": "color"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "controlHeightSM": {
+      "value": "{controlHeightSM}",
+      "type": "sizing"
+    },
+    "controlItemBgActive": {
+      "value": "{controlItemBgActive}",
+      "type": "color"
+    },
+    "controlItemBgHover": {
+      "value": "{controlItemBgHover}",
+      "type": "color"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "lineWidthBold": {
+      "value": "{lineWidthBold}",
+      "type": "borderWidth"
+    },
+    "margin": {
+      "value": "{margin}",
+      "type": "spacing"
+    },
+    "marginLG": {
+      "value": "{marginLG}",
+      "type": "spacing"
+    },
+    "marginSM": {
+      "value": "{marginSM}",
+      "type": "spacing"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    },
+    "padding": {
+      "value": "{padding}",
+      "type": "spacing"
+    },
+    "paddingLG": {
+      "value": "{paddingLG}",
+      "type": "spacing"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    },
+    "paddingXXS": {
+      "value": "{paddingXXS}",
+      "type": "spacing"
+    }
+  },
+  "AutoComplete": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorBgContainerDisabled": {
+      "value": "{colorBgContainerDisabled}",
+      "type": "color"
+    },
+    "colorBgElevated": {
+      "value": "{colorBgElevated}",
+      "type": "color"
+    },
+    "colorBorder": {
+      "value": "{colorBorder}",
+      "type": "color"
+    },
+    "colorErrorHover": {
+      "value": "{colorErrorHover}",
+      "type": "color"
+    },
+    "colorErrorOutline": {
+      "value": "{colorErrorOutline}",
+      "type": "color"
+    },
+    "colorFillSecondary": {
+      "value": "{colorFillSecondary}",
+      "type": "color"
+    },
+    "colorIcon": {
+      "value": "{colorIcon}",
+      "type": "color"
+    },
+    "colorIconHover": {
+      "value": "{colorIconHover}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorPrimaryHover": {
+      "value": "{colorPrimaryHover}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDescription": {
+      "value": "{colorTextDescription}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "colorTextPlaceholder": {
+      "value": "{colorTextPlaceholder}",
+      "type": "color"
+    },
+    "colorTextQuaternary": {
+      "value": "{colorTextQuaternary}",
+      "type": "color"
+    },
+    "colorTextTertiary": {
+      "value": "{colorTextTertiary}",
+      "type": "color"
+    },
+    "colorWarningHover": {
+      "value": "{colorWarningHover}",
+      "type": "color"
+    },
+    "colorWarningOutline": {
+      "value": "{colorWarningOutline}",
+      "type": "color"
+    },
+    "borderRadius": {
+      "value": "{borderRadius}",
+      "type": "borderRadius"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "borderRadiusXS": {
+      "value": "{borderRadiusXS}",
+      "type": "borderRadius"
+    },
+    "boxShadowSecondary": {
+      "value": "{boxShadowSecondary}",
+      "type": "boxShadow"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "controlHeightSM": {
+      "value": "{controlHeightSM}",
+      "type": "sizing"
+    },
+    "controlHeightXS": {
+      "value": "{controlHeightXS}",
+      "type": "sizing"
+    },
+    "controlItemBgActive": {
+      "value": "{controlItemBgActive}",
+      "type": "color"
+    },
+    "controlItemBgHover": {
+      "value": "{controlItemBgHover}",
+      "type": "color"
+    },
+    "controlOutline": {
+      "value": "{controlOutline}",
+      "type": "color"
+    },
+    "controlOutlineWidth": {
+      "value": "{controlOutlineWidth}",
+      "type": "borderWidth"
+    },
+    "controlPaddingHorizontal": {
+      "value": "{controlPaddingHorizontal}",
+      "type": "spacing"
+    },
+    "controlPaddingHorizontalSM": {
+      "value": "{controlPaddingHorizontalSM}",
+      "type": "spacing"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    },
+    "paddingXXS": {
+      "value": "{paddingXXS}",
+      "type": "spacing"
+    }
+  },
+  "Cascader": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorBgContainerDisabled": {
+      "value": "{colorBgContainerDisabled}",
+      "type": "color"
+    },
+    "colorBorder": {
+      "value": "{colorBorder}",
+      "type": "color"
+    },
+    "colorHighlight": {
+      "value": "{colorHighlight}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorPrimaryBorder": {
+      "value": "{colorPrimaryBorder}",
+      "type": "color"
+    },
+    "colorPrimaryHover": {
+      "value": "{colorPrimaryHover}",
+      "type": "color"
+    },
+    "colorSplit": {
+      "value": "{colorSplit}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDescription": {
+      "value": "{colorTextDescription}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "colorWhite": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "controlInteractiveSize": {
+      "value": "{controlInteractiveSize}",
+      "type": "sizing"
+    },
+    "controlItemBgActive": {
+      "value": "{controlItemBgActive}",
+      "type": "color"
+    },
+    "controlItemBgHover": {
+      "value": "{controlItemBgHover}",
+      "type": "color"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "lineWidthBold": {
+      "value": "{lineWidthBold}",
+      "type": "borderWidth"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    },
+    "paddingXXS": {
+      "value": "{paddingXXS}",
+      "type": "spacing"
+    }
+  },
+  "Checkbox": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorBgContainerDisabled": {
+      "value": "{colorBgContainerDisabled}",
+      "type": "color"
+    },
+    "colorBorder": {
+      "value": "{colorBorder}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorPrimaryBorder": {
+      "value": "{colorPrimaryBorder}",
+      "type": "color"
+    },
+    "colorPrimaryHover": {
+      "value": "{colorPrimaryHover}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "colorWhite": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "controlInteractiveSize": {
+      "value": "{controlInteractiveSize}",
+      "type": "sizing"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "lineWidthBold": {
+      "value": "{lineWidthBold}",
+      "type": "borderWidth"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    }
+  },
+  "DatePicker": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorBgContainerDisabled": {
+      "value": "{colorBgContainerDisabled}",
+      "type": "color"
+    },
+    "colorBgElevated": {
+      "value": "{colorBgElevated}",
+      "type": "color"
+    },
+    "colorBorder": {
+      "value": "{colorBorder}",
+      "type": "color"
+    },
+    "colorError": {
+      "value": "{colorError}",
+      "type": "color"
+    },
+    "colorErrorOutline": {
+      "value": "{colorErrorOutline}",
+      "type": "color"
+    },
+    "colorIcon": {
+      "value": "{colorIcon}",
+      "type": "color"
+    },
+    "colorIconHover": {
+      "value": "{colorIconHover}",
+      "type": "color"
+    },
+    "colorLink": {
+      "value": "{colorLink}",
+      "type": "color"
+    },
+    "colorLinkActive": {
+      "value": "{colorLinkActive}",
+      "type": "color"
+    },
+    "colorLinkHover": {
+      "value": "{colorLinkHover}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorPrimaryBorder": {
+      "value": "{colorPrimaryBorder}",
+      "type": "color"
+    },
+    "colorPrimaryHover": {
+      "value": "{colorPrimaryHover}",
+      "type": "color"
+    },
+    "colorSplit": {
+      "value": "{colorSplit}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDescription": {
+      "value": "{colorTextDescription}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "colorTextHeading": {
+      "value": "{colorTextHeading}",
+      "type": "color"
+    },
+    "colorTextLightSolid": {
+      "value": "{colorTextLightSolid}",
+      "type": "color"
+    },
+    "colorTextPlaceholder": {
+      "value": "{colorTextPlaceholder}",
+      "type": "color"
+    },
+    "colorWarning": {
+      "value": "{colorWarning}",
+      "type": "color"
+    },
+    "colorWarningOutline": {
+      "value": "{colorWarningOutline}",
+      "type": "color"
+    },
+    "borderRadius": {
+      "value": "{borderRadius}",
+      "type": "borderRadius"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "borderRadiusOuter": {
+      "value": "{borderRadiusOuter}",
+      "type": "borderRadius"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "borderRadiusXS": {
+      "value": "{borderRadiusXS}",
+      "type": "borderRadius"
+    },
+    "boxShadowSecondary": {
+      "value": "{boxShadowSecondary}",
+      "type": "boxShadow"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "controlHeightSM": {
+      "value": "{controlHeightSM}",
+      "type": "sizing"
+    },
+    "controlItemBgActive": {
+      "value": "{controlItemBgActive}",
+      "type": "color"
+    },
+    "controlItemBgHover": {
+      "value": "{controlItemBgHover}",
+      "type": "color"
+    },
+    "controlOutline": {
+      "value": "{controlOutline}",
+      "type": "color"
+    },
+    "controlOutlineWidth": {
+      "value": "{controlOutlineWidth}",
+      "type": "borderWidth"
+    },
+    "controlPaddingHorizontal": {
+      "value": "{controlPaddingHorizontal}",
+      "type": "spacing"
+    },
+    "controlPaddingHorizontalSM": {
+      "value": "{controlPaddingHorizontalSM}",
+      "type": "spacing"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "lineWidthBold": {
+      "value": "{lineWidthBold}",
+      "type": "borderWidth"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    },
+    "padding": {
+      "value": "{padding}",
+      "type": "spacing"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    },
+    "paddingXXS": {
+      "value": "{paddingXXS}",
+      "type": "spacing"
+    },
+    "sizePopupArrow": {
+      "value": "{sizePopupArrow}",
+      "type": "sizing"
+    }
+  },
+  "Input": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorBgContainerDisabled": {
+      "value": "{colorBgContainerDisabled}",
+      "type": "color"
+    },
+    "colorBorder": {
+      "value": "{colorBorder}",
+      "type": "color"
+    },
+    "colorError": {
+      "value": "{colorError}",
+      "type": "color"
+    },
+    "colorErrorBorderHover": {
+      "value": "{colorErrorBorderHover}",
+      "type": "color"
+    },
+    "colorErrorOutline": {
+      "value": "{colorErrorOutline}",
+      "type": "color"
+    },
+    "colorFillAlter": {
+      "value": "{colorFillAlter}",
+      "type": "color"
+    },
+    "colorIcon": {
+      "value": "{colorIcon}",
+      "type": "color"
+    },
+    "colorIconHover": {
+      "value": "{colorIconHover}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorPrimaryActive": {
+      "value": "{colorPrimaryActive}",
+      "type": "color"
+    },
+    "colorPrimaryHover": {
+      "value": "{colorPrimaryHover}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDescription": {
+      "value": "{colorTextDescription}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "colorTextPlaceholder": {
+      "value": "{colorTextPlaceholder}",
+      "type": "color"
+    },
+    "colorTextQuaternary": {
+      "value": "{colorTextQuaternary}",
+      "type": "color"
+    },
+    "colorTextTertiary": {
+      "value": "{colorTextTertiary}",
+      "type": "color"
+    },
+    "colorWarning": {
+      "value": "{colorWarning}",
+      "type": "color"
+    },
+    "colorWarningBorderHover": {
+      "value": "{colorWarningBorderHover}",
+      "type": "color"
+    },
+    "colorWarningOutline": {
+      "value": "{colorWarningOutline}",
+      "type": "color"
+    },
+    "borderRadius": {
+      "value": "{borderRadius}",
+      "type": "borderRadius"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "controlHeightSM": {
+      "value": "{controlHeightSM}",
+      "type": "sizing"
+    },
+    "controlOutline": {
+      "value": "{controlOutline}",
+      "type": "color"
+    },
+    "controlOutlineWidth": {
+      "value": "{controlOutlineWidth}",
+      "type": "borderWidth"
+    },
+    "controlPaddingHorizontal": {
+      "value": "{controlPaddingHorizontal}",
+      "type": "spacing"
+    },
+    "controlPaddingHorizontalSM": {
+      "value": "{controlPaddingHorizontalSM}",
+      "type": "spacing"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "paddingLG": {
+      "value": "{paddingLG}",
+      "type": "spacing"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    },
+    "paddingXXS": {
+      "value": "{paddingXXS}",
+      "type": "spacing"
+    }
+  },
+  "InputNumber": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorBgContainerDisabled": {
+      "value": "{colorBgContainerDisabled}",
+      "type": "color"
+    },
+    "colorBorder": {
+      "value": "{colorBorder}",
+      "type": "color"
+    },
+    "colorError": {
+      "value": "{colorError}",
+      "type": "color"
+    },
+    "colorErrorBorderHover": {
+      "value": "{colorErrorBorderHover}",
+      "type": "color"
+    },
+    "colorErrorOutline": {
+      "value": "{colorErrorOutline}",
+      "type": "color"
+    },
+    "colorFillAlter": {
+      "value": "{colorFillAlter}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorPrimaryHover": {
+      "value": "{colorPrimaryHover}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDescription": {
+      "value": "{colorTextDescription}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "colorTextPlaceholder": {
+      "value": "{colorTextPlaceholder}",
+      "type": "color"
+    },
+    "colorWarning": {
+      "value": "{colorWarning}",
+      "type": "color"
+    },
+    "colorWarningBorderHover": {
+      "value": "{colorWarningBorderHover}",
+      "type": "color"
+    },
+    "colorWarningOutline": {
+      "value": "{colorWarningOutline}",
+      "type": "color"
+    },
+    "borderRadius": {
+      "value": "{borderRadius}",
+      "type": "borderRadius"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "controlHeightSM": {
+      "value": "{controlHeightSM}",
+      "type": "sizing"
+    },
+    "controlOutline": {
+      "value": "{controlOutline}",
+      "type": "color"
+    },
+    "controlOutlineWidth": {
+      "value": "{controlOutlineWidth}",
+      "type": "borderWidth"
+    },
+    "controlPaddingHorizontal": {
+      "value": "{controlPaddingHorizontal}",
+      "type": "spacing"
+    },
+    "controlPaddingHorizontalSM": {
+      "value": "{controlPaddingHorizontalSM}",
+      "type": "spacing"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    },
+    "paddingXXS": {
+      "value": "{paddingXXS}",
+      "type": "spacing"
+    }
+  },
+  "Mentions": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorBgContainerDisabled": {
+      "value": "{colorBgContainerDisabled}",
+      "type": "color"
+    },
+    "colorBgElevated": {
+      "value": "{colorBgElevated}",
+      "type": "color"
+    },
+    "colorBorder": {
+      "value": "{colorBorder}",
+      "type": "color"
+    },
+    "colorError": {
+      "value": "{colorError}",
+      "type": "color"
+    },
+    "colorErrorBorderHover": {
+      "value": "{colorErrorBorderHover}",
+      "type": "color"
+    },
+    "colorErrorOutline": {
+      "value": "{colorErrorOutline}",
+      "type": "color"
+    },
+    "colorPrimaryHover": {
+      "value": "{colorPrimaryHover}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "colorTextPlaceholder": {
+      "value": "{colorTextPlaceholder}",
+      "type": "color"
+    },
+    "colorWarning": {
+      "value": "{colorWarning}",
+      "type": "color"
+    },
+    "colorWarningBorderHover": {
+      "value": "{colorWarningBorderHover}",
+      "type": "color"
+    },
+    "colorWarningOutline": {
+      "value": "{colorWarningOutline}",
+      "type": "color"
+    },
+    "borderRadius": {
+      "value": "{borderRadius}",
+      "type": "borderRadius"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "boxShadowSecondary": {
+      "value": "{boxShadowSecondary}",
+      "type": "boxShadow"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "controlHeightSM": {
+      "value": "{controlHeightSM}",
+      "type": "sizing"
+    },
+    "controlItemBgHover": {
+      "value": "{controlItemBgHover}",
+      "type": "color"
+    },
+    "controlOutline": {
+      "value": "{controlOutline}",
+      "type": "color"
+    },
+    "controlOutlineWidth": {
+      "value": "{controlOutlineWidth}",
+      "type": "borderWidth"
+    },
+    "controlPaddingHorizontal": {
+      "value": "{controlPaddingHorizontal}",
+      "type": "spacing"
+    },
+    "controlPaddingHorizontalSM": {
+      "value": "{controlPaddingHorizontalSM}",
+      "type": "spacing"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    },
+    "paddingXXS": {
+      "value": "{paddingXXS}",
+      "type": "spacing"
+    }
+  },
+  "Radio": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorBgContainerDisabled": {
+      "value": "{colorBgContainerDisabled}",
+      "type": "color"
+    },
+    "colorBorder": {
+      "value": "{colorBorder}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorPrimaryActive": {
+      "value": "{colorPrimaryActive}",
+      "type": "color"
+    },
+    "colorPrimaryBorder": {
+      "value": "{colorPrimaryBorder}",
+      "type": "color"
+    },
+    "colorPrimaryHover": {
+      "value": "{colorPrimaryHover}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "colorTextLightSolid": {
+      "value": "{colorTextLightSolid}",
+      "type": "color"
+    },
+    "colorWhite": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "borderRadius": {
+      "value": "{borderRadius}",
+      "type": "borderRadius"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "controlHeightSM": {
+      "value": "{controlHeightSM}",
+      "type": "sizing"
+    },
+    "controlItemBgActiveDisabled": {
+      "value": "{controlItemBgActiveDisabled}",
+      "type": "color"
+    },
+    "controlOutline": {
+      "value": "{controlOutline}",
+      "type": "color"
+    },
+    "controlOutlineWidth": {
+      "value": "{controlOutlineWidth}",
+      "type": "borderWidth"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "padding": {
+      "value": "{padding}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    }
+  },
+  "Rate": {
+    "colorFillContent": {
+      "value": "{colorFillContent}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    }
+  },
+  "Select": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorBgContainerDisabled": {
+      "value": "{colorBgContainerDisabled}",
+      "type": "color"
+    },
+    "colorBgElevated": {
+      "value": "{colorBgElevated}",
+      "type": "color"
+    },
+    "colorBorder": {
+      "value": "{colorBorder}",
+      "type": "color"
+    },
+    "colorErrorHover": {
+      "value": "{colorErrorHover}",
+      "type": "color"
+    },
+    "colorErrorOutline": {
+      "value": "{colorErrorOutline}",
+      "type": "color"
+    },
+    "colorFillSecondary": {
+      "value": "{colorFillSecondary}",
+      "type": "color"
+    },
+    "colorIcon": {
+      "value": "{colorIcon}",
+      "type": "color"
+    },
+    "colorIconHover": {
+      "value": "{colorIconHover}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorPrimaryHover": {
+      "value": "{colorPrimaryHover}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDescription": {
+      "value": "{colorTextDescription}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "colorTextPlaceholder": {
+      "value": "{colorTextPlaceholder}",
+      "type": "color"
+    },
+    "colorTextQuaternary": {
+      "value": "{colorTextQuaternary}",
+      "type": "color"
+    },
+    "colorTextTertiary": {
+      "value": "{colorTextTertiary}",
+      "type": "color"
+    },
+    "colorWarningHover": {
+      "value": "{colorWarningHover}",
+      "type": "color"
+    },
+    "colorWarningOutline": {
+      "value": "{colorWarningOutline}",
+      "type": "color"
+    },
+    "borderRadius": {
+      "value": "{borderRadius}",
+      "type": "borderRadius"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "borderRadiusXS": {
+      "value": "{borderRadiusXS}",
+      "type": "borderRadius"
+    },
+    "boxShadowSecondary": {
+      "value": "{boxShadowSecondary}",
+      "type": "boxShadow"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "controlHeightSM": {
+      "value": "{controlHeightSM}",
+      "type": "sizing"
+    },
+    "controlHeightXS": {
+      "value": "{controlHeightXS}",
+      "type": "sizing"
+    },
+    "controlItemBgActive": {
+      "value": "{controlItemBgActive}",
+      "type": "color"
+    },
+    "controlItemBgHover": {
+      "value": "{controlItemBgHover}",
+      "type": "color"
+    },
+    "controlOutline": {
+      "value": "{controlOutline}",
+      "type": "color"
+    },
+    "controlOutlineWidth": {
+      "value": "{controlOutlineWidth}",
+      "type": "borderWidth"
+    },
+    "controlPaddingHorizontal": {
+      "value": "{controlPaddingHorizontal}",
+      "type": "spacing"
+    },
+    "controlPaddingHorizontalSM": {
+      "value": "{controlPaddingHorizontalSM}",
+      "type": "spacing"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    },
+    "paddingXXS": {
+      "value": "{paddingXXS}",
+      "type": "spacing"
+    }
+  },
+  "Slider": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorBgElevated": {
+      "value": "{colorBgElevated}",
+      "type": "color"
+    },
+    "colorBorderSecondary": {
+      "value": "{colorBorderSecondary}",
+      "type": "color"
+    },
+    "colorFillContentHover": {
+      "value": "{colorFillContentHover}",
+      "type": "color"
+    },
+    "colorFillSecondary": {
+      "value": "{colorFillSecondary}",
+      "type": "color"
+    },
+    "colorFillTertiary": {
+      "value": "{colorFillTertiary}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorPrimaryBorder": {
+      "value": "{colorPrimaryBorder}",
+      "type": "color"
+    },
+    "colorPrimaryBorderHover": {
+      "value": "{colorPrimaryBorderHover}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDescription": {
+      "value": "{colorTextDescription}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "borderRadiusXS": {
+      "value": "{borderRadiusXS}",
+      "type": "borderRadius"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "controlHeightSM": {
+      "value": "{controlHeightSM}",
+      "type": "sizing"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    }
+  },
+  "Switch": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorPrimaryBorder": {
+      "value": "{colorPrimaryBorder}",
+      "type": "color"
+    },
+    "colorPrimaryHover": {
+      "value": "{colorPrimaryHover}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextLightSolid": {
+      "value": "{colorTextLightSolid}",
+      "type": "color"
+    },
+    "colorTextQuaternary": {
+      "value": "{colorTextQuaternary}",
+      "type": "color"
+    },
+    "colorTextTertiary": {
+      "value": "{colorTextTertiary}",
+      "type": "color"
+    },
+    "colorWhite": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    },
+    "opacityLoading": {
+      "value": "{opacityLoading}",
+      "type": "opacity"
+    }
+  },
+  "TimePicker": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorBgContainerDisabled": {
+      "value": "{colorBgContainerDisabled}",
+      "type": "color"
+    },
+    "colorBgElevated": {
+      "value": "{colorBgElevated}",
+      "type": "color"
+    },
+    "colorBorder": {
+      "value": "{colorBorder}",
+      "type": "color"
+    },
+    "colorError": {
+      "value": "{colorError}",
+      "type": "color"
+    },
+    "colorErrorOutline": {
+      "value": "{colorErrorOutline}",
+      "type": "color"
+    },
+    "colorIcon": {
+      "value": "{colorIcon}",
+      "type": "color"
+    },
+    "colorIconHover": {
+      "value": "{colorIconHover}",
+      "type": "color"
+    },
+    "colorLink": {
+      "value": "{colorLink}",
+      "type": "color"
+    },
+    "colorLinkActive": {
+      "value": "{colorLinkActive}",
+      "type": "color"
+    },
+    "colorLinkHover": {
+      "value": "{colorLinkHover}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorPrimaryBorder": {
+      "value": "{colorPrimaryBorder}",
+      "type": "color"
+    },
+    "colorPrimaryHover": {
+      "value": "{colorPrimaryHover}",
+      "type": "color"
+    },
+    "colorSplit": {
+      "value": "{colorSplit}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDescription": {
+      "value": "{colorTextDescription}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "colorTextHeading": {
+      "value": "{colorTextHeading}",
+      "type": "color"
+    },
+    "colorTextLightSolid": {
+      "value": "{colorTextLightSolid}",
+      "type": "color"
+    },
+    "colorTextPlaceholder": {
+      "value": "{colorTextPlaceholder}",
+      "type": "color"
+    },
+    "colorWarning": {
+      "value": "{colorWarning}",
+      "type": "color"
+    },
+    "colorWarningOutline": {
+      "value": "{colorWarningOutline}",
+      "type": "color"
+    },
+    "borderRadius": {
+      "value": "{borderRadius}",
+      "type": "borderRadius"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "borderRadiusOuter": {
+      "value": "{borderRadiusOuter}",
+      "type": "borderRadius"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "borderRadiusXS": {
+      "value": "{borderRadiusXS}",
+      "type": "borderRadius"
+    },
+    "boxShadowSecondary": {
+      "value": "{boxShadowSecondary}",
+      "type": "boxShadow"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "controlHeightSM": {
+      "value": "{controlHeightSM}",
+      "type": "sizing"
+    },
+    "controlItemBgActive": {
+      "value": "{controlItemBgActive}",
+      "type": "color"
+    },
+    "controlItemBgHover": {
+      "value": "{controlItemBgHover}",
+      "type": "color"
+    },
+    "controlOutline": {
+      "value": "{controlOutline}",
+      "type": "color"
+    },
+    "controlOutlineWidth": {
+      "value": "{controlOutlineWidth}",
+      "type": "borderWidth"
+    },
+    "controlPaddingHorizontal": {
+      "value": "{controlPaddingHorizontal}",
+      "type": "spacing"
+    },
+    "controlPaddingHorizontalSM": {
+      "value": "{controlPaddingHorizontalSM}",
+      "type": "spacing"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "lineWidthBold": {
+      "value": "{lineWidthBold}",
+      "type": "borderWidth"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    },
+    "padding": {
+      "value": "{padding}",
+      "type": "spacing"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    },
+    "paddingXXS": {
+      "value": "{paddingXXS}",
+      "type": "spacing"
+    },
+    "sizePopupArrow": {
+      "value": "{sizePopupArrow}",
+      "type": "sizing"
+    }
+  },
+  "Transfer": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorBgContainerDisabled": {
+      "value": "{colorBgContainerDisabled}",
+      "type": "color"
+    },
+    "colorBorder": {
+      "value": "{colorBorder}",
+      "type": "color"
+    },
+    "colorError": {
+      "value": "{colorError}",
+      "type": "color"
+    },
+    "colorLinkHover": {
+      "value": "{colorLinkHover}",
+      "type": "color"
+    },
+    "colorSplit": {
+      "value": "{colorSplit}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "colorWarning": {
+      "value": "{colorWarning}",
+      "type": "color"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "controlItemBgActive": {
+      "value": "{controlItemBgActive}",
+      "type": "color"
+    },
+    "controlItemBgActiveHover": {
+      "value": "{controlItemBgActiveHover}",
+      "type": "color"
+    },
+    "controlItemBgHover": {
+      "value": "{controlItemBgHover}",
+      "type": "color"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "margin": {
+      "value": "{margin}",
+      "type": "spacing"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    }
+  },
+  "TreeSelect": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorBgContainerDisabled": {
+      "value": "{colorBgContainerDisabled}",
+      "type": "color"
+    },
+    "colorBgElevated": {
+      "value": "{colorBgElevated}",
+      "type": "color"
+    },
+    "colorBorder": {
+      "value": "{colorBorder}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorPrimaryBorder": {
+      "value": "{colorPrimaryBorder}",
+      "type": "color"
+    },
+    "colorPrimaryHover": {
+      "value": "{colorPrimaryHover}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "colorTextLightSolid": {
+      "value": "{colorTextLightSolid}",
+      "type": "color"
+    },
+    "colorWhite": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "borderRadius": {
+      "value": "{borderRadius}",
+      "type": "borderRadius"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "controlHeightSM": {
+      "value": "{controlHeightSM}",
+      "type": "sizing"
+    },
+    "controlInteractiveSize": {
+      "value": "{controlInteractiveSize}",
+      "type": "sizing"
+    },
+    "controlItemBgActive": {
+      "value": "{controlItemBgActive}",
+      "type": "color"
+    },
+    "controlItemBgHover": {
+      "value": "{controlItemBgHover}",
+      "type": "color"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "lineWidthBold": {
+      "value": "{lineWidthBold}",
+      "type": "borderWidth"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    }
+  },
+  "Upload": {
+    "colorBgMask": {
+      "value": "{colorBgMask}",
+      "type": "color"
+    },
+    "colorBorder": {
+      "value": "{colorBorder}",
+      "type": "color"
+    },
+    "colorError": {
+      "value": "{colorError}",
+      "type": "color"
+    },
+    "colorErrorBg": {
+      "value": "{colorErrorBg}",
+      "type": "color"
+    },
+    "colorFillAlter": {
+      "value": "{colorFillAlter}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorPrimaryHover": {
+      "value": "{colorPrimaryHover}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDescription": {
+      "value": "{colorTextDescription}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "colorTextHeading": {
+      "value": "{colorTextHeading}",
+      "type": "color"
+    },
+    "colorTextLightSolid": {
+      "value": "{colorTextLightSolid}",
+      "type": "color"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "controlItemBgHover": {
+      "value": "{controlItemBgHover}",
+      "type": "color"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "margin": {
+      "value": "{margin}",
+      "type": "spacing"
+    },
+    "marginXL": {
+      "value": "{marginXL}",
+      "type": "spacing"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    },
+    "padding": {
+      "value": "{padding}",
+      "type": "spacing"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    }
+  },
+  "Avatar": {
+    "colorBorderBg": {
+      "value": "{colorBorderBg}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextLightSolid": {
+      "value": "{colorTextLightSolid}",
+      "type": "color"
+    },
+    "colorTextPlaceholder": {
+      "value": "{colorTextPlaceholder}",
+      "type": "color"
+    },
+    "borderRadius": {
+      "value": "{borderRadius}",
+      "type": "borderRadius"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "controlHeightSM": {
+      "value": "{controlHeightSM}",
+      "type": "sizing"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    }
+  },
+  "Badge": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorBorderBg": {
+      "value": "{colorBorderBg}",
+      "type": "color"
+    },
+    "colorError": {
+      "value": "{colorError}",
+      "type": "color"
+    },
+    "colorErrorHover": {
+      "value": "{colorErrorHover}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorSuccess": {
+      "value": "{colorSuccess}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextLightSolid": {
+      "value": "{colorTextLightSolid}",
+      "type": "color"
+    },
+    "colorTextPlaceholder": {
+      "value": "{colorTextPlaceholder}",
+      "type": "color"
+    },
+    "colorWarning": {
+      "value": "{colorWarning}",
+      "type": "color"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    }
+  },
+  "Calendar": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorBgContainerDisabled": {
+      "value": "{colorBgContainerDisabled}",
+      "type": "color"
+    },
+    "colorIcon": {
+      "value": "{colorIcon}",
+      "type": "color"
+    },
+    "colorIconHover": {
+      "value": "{colorIconHover}",
+      "type": "color"
+    },
+    "colorLink": {
+      "value": "{colorLink}",
+      "type": "color"
+    },
+    "colorLinkActive": {
+      "value": "{colorLinkActive}",
+      "type": "color"
+    },
+    "colorLinkHover": {
+      "value": "{colorLinkHover}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorPrimaryHover": {
+      "value": "{colorPrimaryHover}",
+      "type": "color"
+    },
+    "colorSplit": {
+      "value": "{colorSplit}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "colorTextHeading": {
+      "value": "{colorTextHeading}",
+      "type": "color"
+    },
+    "colorTextLightSolid": {
+      "value": "{colorTextLightSolid}",
+      "type": "color"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "controlHeightSM": {
+      "value": "{controlHeightSM}",
+      "type": "sizing"
+    },
+    "controlItemBgActive": {
+      "value": "{controlItemBgActive}",
+      "type": "color"
+    },
+    "controlItemBgHover": {
+      "value": "{controlItemBgHover}",
+      "type": "color"
+    },
+    "controlPaddingHorizontal": {
+      "value": "{controlPaddingHorizontal}",
+      "type": "spacing"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "lineWidthBold": {
+      "value": "{lineWidthBold}",
+      "type": "borderWidth"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    },
+    "padding": {
+      "value": "{padding}",
+      "type": "spacing"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    },
+    "paddingXXS": {
+      "value": "{paddingXXS}",
+      "type": "spacing"
+    }
+  },
+  "Card": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorBorderSecondary": {
+      "value": "{colorBorderSecondary}",
+      "type": "color"
+    },
+    "colorFillAlter": {
+      "value": "{colorFillAlter}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDescription": {
+      "value": "{colorTextDescription}",
+      "type": "color"
+    },
+    "colorTextHeading": {
+      "value": "{colorTextHeading}",
+      "type": "color"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "boxShadowTertiary": {
+      "value": "{boxShadowTertiary}",
+      "type": "boxShadow"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    },
+    "padding": {
+      "value": "{padding}",
+      "type": "spacing"
+    },
+    "paddingLG": {
+      "value": "{paddingLG}",
+      "type": "spacing"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    }
+  },
+  "Carousel": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "controlHeightSM": {
+      "value": "{controlHeightSM}",
+      "type": "sizing"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    }
+  },
+  "Collapse": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorBorder": {
+      "value": "{colorBorder}",
+      "type": "color"
+    },
+    "colorFillAlter": {
+      "value": "{colorFillAlter}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "colorTextHeading": {
+      "value": "{colorTextHeading}",
+      "type": "color"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "marginSM": {
+      "value": "{marginSM}",
+      "type": "spacing"
+    },
+    "padding": {
+      "value": "{padding}",
+      "type": "spacing"
+    },
+    "paddingLG": {
+      "value": "{paddingLG}",
+      "type": "spacing"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    },
+    "paddingXXS": {
+      "value": "{paddingXXS}",
+      "type": "spacing"
+    }
+  },
+  "Descriptions": {
+    "colorFillAlter": {
+      "value": "{colorFillAlter}",
+      "type": "color"
+    },
+    "colorSplit": {
+      "value": "{colorSplit}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextSecondary": {
+      "value": "{colorTextSecondary}",
+      "type": "color"
+    },
+    "colorTextTertiary": {
+      "value": "{colorTextTertiary}",
+      "type": "color"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    },
+    "padding": {
+      "value": "{padding}",
+      "type": "spacing"
+    },
+    "paddingLG": {
+      "value": "{paddingLG}",
+      "type": "spacing"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    }
+  },
+  "Empty": {
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "margin": {
+      "value": "{margin}",
+      "type": "spacing"
+    },
+    "marginXL": {
+      "value": "{marginXL}",
+      "type": "spacing"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "opacityImage": {
+      "value": "{opacityImage}",
+      "type": "opacity"
+    }
+  },
+  "Image": {
+    "colorBgContainerDisabled": {
+      "value": "{colorBgContainerDisabled}",
+      "type": "color"
+    },
+    "colorBgMask": {
+      "value": "{colorBgMask}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextLightSolid": {
+      "value": "{colorTextLightSolid}",
+      "type": "color"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "marginSM": {
+      "value": "{marginSM}",
+      "type": "spacing"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    },
+    "paddingXXS": {
+      "value": "{paddingXXS}",
+      "type": "spacing"
+    }
+  },
+  "List": {
+    "colorBorder": {
+      "value": "{colorBorder}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorSplit": {
+      "value": "{colorSplit}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDescription": {
+      "value": "{colorTextDescription}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "margin": {
+      "value": "{margin}",
+      "type": "spacing"
+    },
+    "marginLG": {
+      "value": "{marginLG}",
+      "type": "spacing"
+    },
+    "marginSM": {
+      "value": "{marginSM}",
+      "type": "spacing"
+    },
+    "marginXXL": {
+      "value": "{marginXXL}",
+      "type": "spacing"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    },
+    "padding": {
+      "value": "{padding}",
+      "type": "spacing"
+    },
+    "paddingContentHorizontal": {
+      "value": "{paddingContentHorizontal}",
+      "type": "spacing"
+    },
+    "paddingContentHorizontalLG": {
+      "value": "{paddingContentHorizontalLG}",
+      "type": "spacing"
+    },
+    "paddingContentVertical": {
+      "value": "{paddingContentVertical}",
+      "type": "spacing"
+    },
+    "paddingContentVerticalLG": {
+      "value": "{paddingContentVerticalLG}",
+      "type": "spacing"
+    },
+    "paddingContentVerticalSM": {
+      "value": "{paddingContentVerticalSM}",
+      "type": "spacing"
+    },
+    "paddingLG": {
+      "value": "{paddingLG}",
+      "type": "spacing"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    }
+  },
+  "Popover": {
+    "colorBgElevated": {
+      "value": "{colorBgElevated}",
+      "type": "color"
+    },
+    "colorSplit": {
+      "value": "{colorSplit}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextHeading": {
+      "value": "{colorTextHeading}",
+      "type": "color"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "borderRadiusOuter": {
+      "value": "{borderRadiusOuter}",
+      "type": "borderRadius"
+    },
+    "borderRadiusXS": {
+      "value": "{borderRadiusXS}",
+      "type": "borderRadius"
+    },
+    "boxShadowSecondary": {
+      "value": "{boxShadowSecondary}",
+      "type": "boxShadow"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "padding": {
+      "value": "{padding}",
+      "type": "spacing"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    },
+    "sizePopupArrow": {
+      "value": "{sizePopupArrow}",
+      "type": "sizing"
+    }
+  },
+  "QRCode": {
+    "colorSplit": {
+      "value": "{colorSplit}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorWhite": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    }
+  },
+  "Segmented": {
+    "colorBgElevated": {
+      "value": "{colorBgElevated}",
+      "type": "color"
+    },
+    "colorBgLayout": {
+      "value": "{colorBgLayout}",
+      "type": "color"
+    },
+    "colorFill": {
+      "value": "{colorFill}",
+      "type": "color"
+    },
+    "colorFillSecondary": {
+      "value": "{colorFillSecondary}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "colorTextLabel": {
+      "value": "{colorTextLabel}",
+      "type": "color"
+    },
+    "borderRadius": {
+      "value": "{borderRadius}",
+      "type": "borderRadius"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "borderRadiusXS": {
+      "value": "{borderRadiusXS}",
+      "type": "borderRadius"
+    },
+    "boxShadowTertiary": {
+      "value": "{boxShadowTertiary}",
+      "type": "boxShadow"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "controlHeightSM": {
+      "value": "{controlHeightSM}",
+      "type": "sizing"
+    },
+    "controlPaddingHorizontal": {
+      "value": "{controlPaddingHorizontal}",
+      "type": "spacing"
+    },
+    "controlPaddingHorizontalSM": {
+      "value": "{controlPaddingHorizontalSM}",
+      "type": "spacing"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "lineWidthBold": {
+      "value": "{lineWidthBold}",
+      "type": "borderWidth"
+    },
+    "marginSM": {
+      "value": "{marginSM}",
+      "type": "spacing"
+    },
+    "paddingXXS": {
+      "value": "{paddingXXS}",
+      "type": "spacing"
+    }
+  },
+  "Statistic": {
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDescription": {
+      "value": "{colorTextDescription}",
+      "type": "color"
+    },
+    "colorTextHeading": {
+      "value": "{colorTextHeading}",
+      "type": "color"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    },
+    "padding": {
+      "value": "{padding}",
+      "type": "spacing"
+    }
+  },
+  "Table": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorBorderSecondary": {
+      "value": "{colorBorderSecondary}",
+      "type": "color"
+    },
+    "colorFillAlter": {
+      "value": "{colorFillAlter}",
+      "type": "color"
+    },
+    "colorFillContent": {
+      "value": "{colorFillContent}",
+      "type": "color"
+    },
+    "colorFillSecondary": {
+      "value": "{colorFillSecondary}",
+      "type": "color"
+    },
+    "colorIcon": {
+      "value": "{colorIcon}",
+      "type": "color"
+    },
+    "colorIconHover": {
+      "value": "{colorIconHover}",
+      "type": "color"
+    },
+    "colorLink": {
+      "value": "{colorLink}",
+      "type": "color"
+    },
+    "colorLinkActive": {
+      "value": "{colorLinkActive}",
+      "type": "color"
+    },
+    "colorLinkHover": {
+      "value": "{colorLinkHover}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorSplit": {
+      "value": "{colorSplit}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDescription": {
+      "value": "{colorTextDescription}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "colorTextHeading": {
+      "value": "{colorTextHeading}",
+      "type": "color"
+    },
+    "colorTextPlaceholder": {
+      "value": "{colorTextPlaceholder}",
+      "type": "color"
+    },
+    "borderRadius": {
+      "value": "{borderRadius}",
+      "type": "borderRadius"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "boxShadowSecondary": {
+      "value": "{boxShadowSecondary}",
+      "type": "boxShadow"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "controlInteractiveSize": {
+      "value": "{controlInteractiveSize}",
+      "type": "sizing"
+    },
+    "controlItemBgActive": {
+      "value": "{controlItemBgActive}",
+      "type": "color"
+    },
+    "controlItemBgActiveHover": {
+      "value": "{controlItemBgActiveHover}",
+      "type": "color"
+    },
+    "controlItemBgHover": {
+      "value": "{controlItemBgHover}",
+      "type": "color"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "margin": {
+      "value": "{margin}",
+      "type": "spacing"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    },
+    "opacityLoading": {
+      "value": "{opacityLoading}",
+      "type": "opacity"
+    },
+    "padding": {
+      "value": "{padding}",
+      "type": "spacing"
+    },
+    "paddingContentVerticalLG": {
+      "value": "{paddingContentVerticalLG}",
+      "type": "spacing"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    },
+    "paddingXXS": {
+      "value": "{paddingXXS}",
+      "type": "spacing"
+    }
+  },
+  "Tabs": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorBorder": {
+      "value": "{colorBorder}",
+      "type": "color"
+    },
+    "colorBorderSecondary": {
+      "value": "{colorBorderSecondary}",
+      "type": "color"
+    },
+    "colorFillAlter": {
+      "value": "{colorFillAlter}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorPrimaryActive": {
+      "value": "{colorPrimaryActive}",
+      "type": "color"
+    },
+    "colorPrimaryBorder": {
+      "value": "{colorPrimaryBorder}",
+      "type": "color"
+    },
+    "colorPrimaryHover": {
+      "value": "{colorPrimaryHover}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDescription": {
+      "value": "{colorTextDescription}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "colorTextHeading": {
+      "value": "{colorTextHeading}",
+      "type": "color"
+    },
+    "borderRadius": {
+      "value": "{borderRadius}",
+      "type": "borderRadius"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "boxShadowSecondary": {
+      "value": "{boxShadowSecondary}",
+      "type": "boxShadow"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "controlItemBgHover": {
+      "value": "{controlItemBgHover}",
+      "type": "color"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "lineWidthBold": {
+      "value": "{lineWidthBold}",
+      "type": "borderWidth"
+    },
+    "margin": {
+      "value": "{margin}",
+      "type": "spacing"
+    },
+    "marginSM": {
+      "value": "{marginSM}",
+      "type": "spacing"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    },
+    "padding": {
+      "value": "{padding}",
+      "type": "spacing"
+    },
+    "paddingLG": {
+      "value": "{paddingLG}",
+      "type": "spacing"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    },
+    "paddingXXS": {
+      "value": "{paddingXXS}",
+      "type": "spacing"
+    }
+  },
+  "Tag": {
+    "colorBorder": {
+      "value": "{colorBorder}",
+      "type": "color"
+    },
+    "colorError": {
+      "value": "{colorError}",
+      "type": "color"
+    },
+    "colorErrorBg": {
+      "value": "{colorErrorBg}",
+      "type": "color"
+    },
+    "colorErrorBorder": {
+      "value": "{colorErrorBorder}",
+      "type": "color"
+    },
+    "colorFillQuaternary": {
+      "value": "{colorFillQuaternary}",
+      "type": "color"
+    },
+    "colorFillSecondary": {
+      "value": "{colorFillSecondary}",
+      "type": "color"
+    },
+    "colorFillTertiary": {
+      "value": "{colorFillTertiary}",
+      "type": "color"
+    },
+    "colorInfo": {
+      "value": "{colorInfo}",
+      "type": "color"
+    },
+    "colorInfoBg": {
+      "value": "{colorInfoBg}",
+      "type": "color"
+    },
+    "colorInfoBorder": {
+      "value": "{colorInfoBorder}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorPrimaryActive": {
+      "value": "{colorPrimaryActive}",
+      "type": "color"
+    },
+    "colorPrimaryHover": {
+      "value": "{colorPrimaryHover}",
+      "type": "color"
+    },
+    "colorSuccess": {
+      "value": "{colorSuccess}",
+      "type": "color"
+    },
+    "colorSuccessBg": {
+      "value": "{colorSuccessBg}",
+      "type": "color"
+    },
+    "colorSuccessBorder": {
+      "value": "{colorSuccessBorder}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDescription": {
+      "value": "{colorTextDescription}",
+      "type": "color"
+    },
+    "colorTextHeading": {
+      "value": "{colorTextHeading}",
+      "type": "color"
+    },
+    "colorTextLightSolid": {
+      "value": "{colorTextLightSolid}",
+      "type": "color"
+    },
+    "colorWarning": {
+      "value": "{colorWarning}",
+      "type": "color"
+    },
+    "colorWarningBg": {
+      "value": "{colorWarningBg}",
+      "type": "color"
+    },
+    "colorWarningBorder": {
+      "value": "{colorWarningBorder}",
+      "type": "color"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "paddingXXS": {
+      "value": "{paddingXXS}",
+      "type": "spacing"
+    }
+  },
+  "Timeline": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorError": {
+      "value": "{colorError}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorSplit": {
+      "value": "{colorSplit}",
+      "type": "color"
+    },
+    "colorSuccess": {
+      "value": "{colorSuccess}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "lineWidthBold": {
+      "value": "{lineWidthBold}",
+      "type": "borderWidth"
+    },
+    "margin": {
+      "value": "{margin}",
+      "type": "spacing"
+    },
+    "marginSM": {
+      "value": "{marginSM}",
+      "type": "spacing"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    },
+    "padding": {
+      "value": "{padding}",
+      "type": "spacing"
+    },
+    "paddingXXS": {
+      "value": "{paddingXXS}",
+      "type": "spacing"
+    }
+  },
+  "Tooltip": {
+    "colorBgSpotlight": {
+      "value": "{colorBgSpotlight}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextLightSolid": {
+      "value": "{colorTextLightSolid}",
+      "type": "color"
+    },
+    "borderRadius": {
+      "value": "{borderRadius}",
+      "type": "borderRadius"
+    },
+    "borderRadiusOuter": {
+      "value": "{borderRadiusOuter}",
+      "type": "borderRadius"
+    },
+    "borderRadiusXS": {
+      "value": "{borderRadiusXS}",
+      "type": "borderRadius"
+    },
+    "boxShadowSecondary": {
+      "value": "{boxShadowSecondary}",
+      "type": "boxShadow"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    },
+    "sizePopupArrow": {
+      "value": "{sizePopupArrow}",
+      "type": "sizing"
+    }
+  },
+  "Tour": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorBgTextHover": {
+      "value": "{colorBgTextHover}",
+      "type": "color"
+    },
+    "colorFill": {
+      "value": "{colorFill}",
+      "type": "color"
+    },
+    "colorIcon": {
+      "value": "{colorIcon}",
+      "type": "color"
+    },
+    "colorIconHover": {
+      "value": "{colorIconHover}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextLightSolid": {
+      "value": "{colorTextLightSolid}",
+      "type": "color"
+    },
+    "colorWhite": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "borderRadius": {
+      "value": "{borderRadius}",
+      "type": "borderRadius"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "borderRadiusOuter": {
+      "value": "{borderRadiusOuter}",
+      "type": "borderRadius"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "borderRadiusXS": {
+      "value": "{borderRadiusXS}",
+      "type": "borderRadius"
+    },
+    "boxShadowTertiary": {
+      "value": "{boxShadowTertiary}",
+      "type": "boxShadow"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "padding": {
+      "value": "{padding}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    },
+    "sizePopupArrow": {
+      "value": "{sizePopupArrow}",
+      "type": "sizing"
+    }
+  },
+  "Tree": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorBgContainerDisabled": {
+      "value": "{colorBgContainerDisabled}",
+      "type": "color"
+    },
+    "colorBorder": {
+      "value": "{colorBorder}",
+      "type": "color"
+    },
+    "colorError": {
+      "value": "{colorError}",
+      "type": "color"
+    },
+    "colorLinkHover": {
+      "value": "{colorLinkHover}",
+      "type": "color"
+    },
+    "colorSplit": {
+      "value": "{colorSplit}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "colorWarning": {
+      "value": "{colorWarning}",
+      "type": "color"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "controlItemBgActive": {
+      "value": "{controlItemBgActive}",
+      "type": "color"
+    },
+    "controlItemBgActiveHover": {
+      "value": "{controlItemBgActiveHover}",
+      "type": "color"
+    },
+    "controlItemBgHover": {
+      "value": "{controlItemBgHover}",
+      "type": "color"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "margin": {
+      "value": "{margin}",
+      "type": "spacing"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    }
+  },
+  "Drawer": {
+    "colorBgElevated": {
+      "value": "{colorBgElevated}",
+      "type": "color"
+    },
+    "colorBgMask": {
+      "value": "{colorBgMask}",
+      "type": "color"
+    },
+    "colorIcon": {
+      "value": "{colorIcon}",
+      "type": "color"
+    },
+    "colorIconHover": {
+      "value": "{colorIconHover}",
+      "type": "color"
+    },
+    "colorSplit": {
+      "value": "{colorSplit}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "marginSM": {
+      "value": "{marginSM}",
+      "type": "spacing"
+    },
+    "padding": {
+      "value": "{padding}",
+      "type": "spacing"
+    },
+    "paddingLG": {
+      "value": "{paddingLG}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    }
+  },
+  "Message": {
+    "colorBgElevated": {
+      "value": "{colorBgElevated}",
+      "type": "color"
+    },
+    "colorError": {
+      "value": "{colorError}",
+      "type": "color"
+    },
+    "colorInfo": {
+      "value": "{colorInfo}",
+      "type": "color"
+    },
+    "colorSuccess": {
+      "value": "{colorSuccess}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorWarning": {
+      "value": "{colorWarning}",
+      "type": "color"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "sizing"
+    },
+    "boxShadow": {
+      "value": "{boxShadow}",
+      "type": "boxShadow"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    }
+  },
+  "Modal": {
+    "colorBgElevated": {
+      "value": "{colorBgElevated}",
+      "type": "color"
+    },
+    "colorBgMask": {
+      "value": "{colorBgMask}",
+      "type": "color"
+    },
+    "colorError": {
+      "value": "{colorError}",
+      "type": "color"
+    },
+    "colorIcon": {
+      "value": "{colorIcon}",
+      "type": "color"
+    },
+    "colorIconHover": {
+      "value": "{colorIconHover}",
+      "type": "color"
+    },
+    "colorInfo": {
+      "value": "{colorInfo}",
+      "type": "color"
+    },
+    "colorPrimaryBorder": {
+      "value": "{colorPrimaryBorder}",
+      "type": "color"
+    },
+    "colorSplit": {
+      "value": "{colorSplit}",
+      "type": "color"
+    },
+    "colorSuccess": {
+      "value": "{colorSuccess}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextHeading": {
+      "value": "{colorTextHeading}",
+      "type": "color"
+    },
+    "colorWarning": {
+      "value": "{colorWarning}",
+      "type": "color"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "boxShadow": {
+      "value": "{boxShadow}",
+      "type": "boxShadow"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "margin": {
+      "value": "{margin}",
+      "type": "spacing"
+    },
+    "marginLG": {
+      "value": "{marginLG}",
+      "type": "spacing"
+    },
+    "marginSM": {
+      "value": "{marginSM}",
+      "type": "spacing"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "padding": {
+      "value": "{padding}",
+      "type": "spacing"
+    },
+    "paddingContentHorizontalLG": {
+      "value": "{paddingContentHorizontalLG}",
+      "type": "spacing"
+    },
+    "paddingLG": {
+      "value": "{paddingLG}",
+      "type": "spacing"
+    },
+    "paddingMD": {
+      "value": "{paddingMD}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    }
+  },
+  "Notification": {
+    "colorBgElevated": {
+      "value": "{colorBgElevated}",
+      "type": "color"
+    },
+    "colorError": {
+      "value": "{colorError}",
+      "type": "color"
+    },
+    "colorIcon": {
+      "value": "{colorIcon}",
+      "type": "color"
+    },
+    "colorIconHover": {
+      "value": "{colorIconHover}",
+      "type": "color"
+    },
+    "colorInfo": {
+      "value": "{colorInfo}",
+      "type": "color"
+    },
+    "colorSuccess": {
+      "value": "{colorSuccess}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextHeading": {
+      "value": "{colorTextHeading}",
+      "type": "color"
+    },
+    "colorWarning": {
+      "value": "{colorWarning}",
+      "type": "color"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "boxShadow": {
+      "value": "{boxShadow}",
+      "type": "boxShadow"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "margin": {
+      "value": "{margin}",
+      "type": "spacing"
+    },
+    "marginLG": {
+      "value": "{marginLG}",
+      "type": "spacing"
+    },
+    "marginSM": {
+      "value": "{marginSM}",
+      "type": "spacing"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "paddingContentHorizontalLG": {
+      "value": "{paddingContentHorizontalLG}",
+      "type": "spacing"
+    },
+    "paddingLG": {
+      "value": "{paddingLG}",
+      "type": "spacing"
+    },
+    "paddingMD": {
+      "value": "{paddingMD}",
+      "type": "spacing"
+    }
+  },
+  "Popconfirm": {
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextHeading": {
+      "value": "{colorTextHeading}",
+      "type": "color"
+    },
+    "colorWarning": {
+      "value": "{colorWarning}",
+      "type": "color"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    }
+  },
+  "Progress": {
+    "colorBgContainer": {
+      "value": "{colorBgContainer}",
+      "type": "color"
+    },
+    "colorError": {
+      "value": "{colorError}",
+      "type": "color"
+    },
+    "colorFillSecondary": {
+      "value": "{colorFillSecondary}",
+      "type": "color"
+    },
+    "colorInfo": {
+      "value": "{colorInfo}",
+      "type": "color"
+    },
+    "colorSuccess": {
+      "value": "{colorSuccess}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    }
+  },
+  "Result": {
+    "colorError": {
+      "value": "{colorError}",
+      "type": "color"
+    },
+    "colorFillAlter": {
+      "value": "{colorFillAlter}",
+      "type": "color"
+    },
+    "colorInfo": {
+      "value": "{colorInfo}",
+      "type": "color"
+    },
+    "colorSuccess": {
+      "value": "{colorSuccess}",
+      "type": "color"
+    },
+    "colorTextDescription": {
+      "value": "{colorTextDescription}",
+      "type": "color"
+    },
+    "colorTextHeading": {
+      "value": "{colorTextHeading}",
+      "type": "color"
+    },
+    "colorWarning": {
+      "value": "{colorWarning}",
+      "type": "color"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "padding": {
+      "value": "{padding}",
+      "type": "spacing"
+    },
+    "paddingLG": {
+      "value": "{paddingLG}",
+      "type": "spacing"
+    },
+    "paddingXL": {
+      "value": "{paddingXL}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    }
+  },
+  "Skeleton": {
+    "colorFill": {
+      "value": "{colorFill}",
+      "type": "color"
+    },
+    "colorFillContent": {
+      "value": "{colorFillContent}",
+      "type": "color"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "controlHeight": {
+      "value": "{controlHeight}",
+      "type": "sizing"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "controlHeightSM": {
+      "value": "{controlHeightSM}",
+      "type": "sizing"
+    },
+    "controlHeightXS": {
+      "value": "{controlHeightXS}",
+      "type": "sizing"
+    },
+    "marginLG": {
+      "value": "{marginLG}",
+      "type": "spacing"
+    },
+    "marginSM": {
+      "value": "{marginSM}",
+      "type": "spacing"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    },
+    "padding": {
+      "value": "{padding}",
+      "type": "spacing"
+    }
+  },
+  "FloatButton": {
+    "colorBgElevated": {
+      "value": "{colorBgElevated}",
+      "type": "color"
+    },
+    "colorFillContent": {
+      "value": "{colorFillContent}",
+      "type": "color"
+    },
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    },
+    "colorPrimaryHover": {
+      "value": "{colorPrimaryHover}",
+      "type": "color"
+    },
+    "colorSplit": {
+      "value": "{colorSplit}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextLightSolid": {
+      "value": "{colorTextLightSolid}",
+      "type": "color"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "borderRadiusSM": {
+      "value": "{borderRadiusSM}",
+      "type": "borderRadius"
+    },
+    "boxShadowSecondary": {
+      "value": "{boxShadowSecondary}",
+      "type": "boxShadow"
+    },
+    "controlHeightLG": {
+      "value": "{controlHeightLG}",
+      "type": "sizing"
+    },
+    "controlItemBgHover": {
+      "value": "{controlItemBgHover}",
+      "type": "color"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "margin": {
+      "value": "{margin}",
+      "type": "spacing"
+    },
+    "marginLG": {
+      "value": "{marginLG}",
+      "type": "spacing"
+    },
+    "marginXXL": {
+      "value": "{marginXXL}",
+      "type": "spacing"
+    },
+    "paddingXXS": {
+      "value": "{paddingXXS}",
+      "type": "spacing"
+    }
+  },
+  "Divider": {
+    "colorSplit": {
+      "value": "{colorSplit}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextHeading": {
+      "value": "{colorTextHeading}",
+      "type": "color"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "margin": {
+      "value": "{margin}",
+      "type": "spacing"
+    },
+    "marginLG": {
+      "value": "{marginLG}",
+      "type": "spacing"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    }
+  },
+  "Typography": {
+    "colorError": {
+      "value": "{colorError}",
+      "type": "color"
+    },
+    "colorErrorActive": {
+      "value": "{colorErrorActive}",
+      "type": "color"
+    },
+    "colorErrorHover": {
+      "value": "{colorErrorHover}",
+      "type": "color"
+    },
+    "colorLink": {
+      "value": "{colorLink}",
+      "type": "color"
+    },
+    "colorLinkActive": {
+      "value": "{colorLinkActive}",
+      "type": "color"
+    },
+    "colorLinkHover": {
+      "value": "{colorLinkHover}",
+      "type": "color"
+    },
+    "colorPrimaryHover": {
+      "value": "{colorPrimaryHover}",
+      "type": "color"
+    },
+    "colorSuccess": {
+      "value": "{colorSuccess}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextDescription": {
+      "value": "{colorTextDescription}",
+      "type": "color"
+    },
+    "colorTextDisabled": {
+      "value": "{colorTextDisabled}",
+      "type": "color"
+    },
+    "colorTextHeading": {
+      "value": "{colorTextHeading}",
+      "type": "color"
+    },
+    "colorWarning": {
+      "value": "{colorWarning}",
+      "type": "color"
+    },
+    "controlPaddingHorizontal": {
+      "value": "{controlPaddingHorizontal}",
+      "type": "spacing"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "marginXXS": {
+      "value": "{marginXXS}",
+      "type": "spacing"
+    },
+    "paddingSM": {
+      "value": "{paddingSM}",
+      "type": "spacing"
+    },
+    "paddingXS": {
+      "value": "{paddingXS}",
+      "type": "spacing"
+    },
+    "paddingXXS": {
+      "value": "{paddingXXS}",
+      "type": "spacing"
+    }
+  },
+  "Spin": {
+    "colorPrimary": {
+      "value": "{colorPrimary}",
+      "type": "color"
+    }
+  },
+  "Alert": {
+    "colorError": {
+      "value": "{colorError}",
+      "type": "color"
+    },
+    "colorErrorBg": {
+      "value": "{colorErrorBg}",
+      "type": "color"
+    },
+    "colorErrorBorder": {
+      "value": "{colorErrorBorder}",
+      "type": "color"
+    },
+    "colorInfo": {
+      "value": "{colorInfo}",
+      "type": "color"
+    },
+    "colorInfoBg": {
+      "value": "{colorInfoBg}",
+      "type": "color"
+    },
+    "colorInfoBorder": {
+      "value": "{colorInfoBorder}",
+      "type": "color"
+    },
+    "colorSuccess": {
+      "value": "{colorSuccess}",
+      "type": "color"
+    },
+    "colorSuccessBg": {
+      "value": "{colorSuccessBg}",
+      "type": "color"
+    },
+    "colorSuccessBorder": {
+      "value": "{colorSuccessBorder}",
+      "type": "color"
+    },
+    "colorText": {
+      "value": "{colorText}",
+      "type": "color"
+    },
+    "colorTextHeading": {
+      "value": "{colorTextHeading}",
+      "type": "color"
+    },
+    "colorWarning": {
+      "value": "{colorWarning}",
+      "type": "color"
+    },
+    "colorWarningBg": {
+      "value": "{colorWarningBg}",
+      "type": "color"
+    },
+    "colorWarningBorder": {
+      "value": "{colorWarningBorder}",
+      "type": "color"
+    },
+    "colorIcon": {
+      "value": "{colorIcon}",
+      "type": "color"
+    },
+    "borderRadiusLG": {
+      "value": "{borderRadiusLG}",
+      "type": "borderRadius"
+    },
+    "lineType": {
+      "value": "{lineType}",
+      "type": "border"
+    },
+    "lineWidth": {
+      "value": "{lineWidth}",
+      "type": "borderWidth"
+    },
+    "marginXS": {
+      "value": "{marginXS}",
+      "type": "spacing"
+    },
+    "marginSM": {
+      "value": "{marginSM}",
+      "type": "spacing"
+    },
+    "paddingMD": {
+      "value": "{paddingMD}",
+      "type": "spacing"
+    },
+    "paddingContentHorizontalLG": {
+      "value": "{paddingContentHorizontalLG}",
+      "type": "spacing"
+    }
+  }
+}
